@@ -1,0 +1,9 @@
+var config = {};
+
+config.mta_key = ''
+config.my_number = '+11234567890'
+config.twilio_number = '+11234567890'
+config.twilio_sid = ''
+config.twilio_auth_token = ''
+
+module.exports = config;

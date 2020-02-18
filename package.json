@@ -1,0 +1,23 @@
+{
+  "name": "mta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "google-protobuf": "^3.8.0",
+    "gtfs-realtime-bindings": "0.0.5",
+    "path": "^0.12.7",
+    "protobufjs": "^6.8.8",
+    "request": "^2.88.0",
+    "twilio": "^3.32.0"
+  }
+}
